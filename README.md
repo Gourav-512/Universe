@@ -28,3 +28,8 @@ This website is designed to:
 - Display student artwork in a gallery  
 - Offer affordable stationery for students  
 - Make admission & contact process simple and online
+
+## Live Demo
+
+Check out the live website here:  
+🔗 [Amrutkala — Drawing & Painting Classes](https://amrutkala.vercel.app/)
