@@ -63,7 +63,7 @@ export function HeroSection() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold text-foreground mb-6 text-balance">
-            DEMO SITE Learn Drawing & Painting <span className="text-primary">with Us</span>
+            Learn Drawing & Painting <span className="text-primary">with Us</span>
           </h1>
 
           <div className="h-16 mb-8 flex items-center justify-center">

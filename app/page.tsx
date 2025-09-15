@@ -4,6 +4,8 @@ import { CoursesSection } from "@/components/courses-section"
 import { GallerySection } from "@/components/gallery-section"
 import { ContactSection } from "@/components/contact-section"
 import { PaintSplashDivider } from "@/components/paint-splash-divider"
+import { TimeTableSection } from "@/components/time-table-section"
+import { StationerySection } from "@/components/stationery-section"
 
 export default function HomePage() {
   return (
@@ -14,7 +16,11 @@ export default function HomePage() {
       <PaintSplashDivider />
       <CoursesSection />
       <PaintSplashDivider />
+      <TimeTableSection />
+      <PaintSplashDivider />
       <GallerySection />
+      <PaintSplashDivider />
+      <StationerySection />
       <PaintSplashDivider />
       <ContactSection />
     </main>
