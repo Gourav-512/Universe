@@ -33,3 +33,15 @@ This website is designed to:
 
 Check out the live website here:  
 🔗 [Amrutkala — Drawing & Painting Classes](https://amrutkala.vercel.app/)
+
+
+## Features
+
+- 🎨 Courses for **Kids, Teens & Adults**  
+- 📅 Well-structured **Timetable** for batches  
+- 🖼️ **Gallery** showcasing student artwork  
+- 🛒 Affordable **Stationery shop** for drawing & painting essentials  
+- 📱 Fully **Responsive design** (mobile, tablet, desktop)  
+- 📩 Easy **Admission & Contact** form  
+- ⚡ Built with modern web technologies & deployed on Vercel  
+
