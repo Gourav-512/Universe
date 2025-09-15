@@ -177,3 +177,25 @@ Universe/
 * **src/context/** → React context for global state.
 
 This structure ensures the project is **scalable, modular, and easy to maintain**.
+
+---
+
+## Contributing
+
+Contributions are welcome! 🙌
+If you’d like to improve this project:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-name`)
+3. Commit your changes (`git commit -m 'Add feature'`)
+4. Push to your fork (`git push origin feature-name`)
+5. Open a Pull Request 🚀
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.
+You are free to use, modify, and distribute this project with proper attribution.
+
+---
