@@ -58,4 +58,12 @@ Amrutkala offers structured art courses for different age groups:
 - 👩‍🎨 **Adults (18+ years)**  
   Professional-level painting, shading, and modern art techniques.  
 
+## Timetable
+
+Amrutkala provides a clear timetable for flexible learning:  
+
+- 🗓️ **Morning & Evening Batches** available  
+- 📍 Classes conducted at institute + online support  
+- 🧒 Separate timings for **Kids**, **Teens**, and **Adults**  
+- ⏰ Weekend special workshops & events  
 
