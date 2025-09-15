@@ -67,3 +67,12 @@ Amrutkala provides a clear timetable for flexible learning:
 - 🧒 Separate timings for **Kids**, **Teens**, and **Adults**  
 - ⏰ Weekend special workshops & events  
 
+## Gallery
+
+A showcase of creativity from Amrutkala students:
+
+- 🖼️ Artwork by Kids, Teens & Adults  
+- 🎨 Mix of traditional and modern styles  
+- 🌟 Regularly updated with new creations  
+- 📸 Inspiring visual space for learners and art lovers  
+
