@@ -16,3 +16,15 @@
 - [Tech Stack](#tech-stack)  
 - [Contributing](#contributing)  
 - [License](#license)
+
+## About
+
+**Amrutkala** is a creative platform for learning **Drawing & Painting**.  
+It combines **Traditional Indian Art styles** with **Modern Art techniques**, offering structured courses for kids, teens, and adults.  
+
+This website is designed to:  
+- Showcase courses & batches  
+- Provide a timetable for easy scheduling  
+- Display student artwork in a gallery  
+- Offer affordable stationery for students  
+- Make admission & contact process simple and online
