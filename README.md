@@ -45,3 +45,17 @@ Check out the live website here:
 - 📩 Easy **Admission & Contact** form  
 - ⚡ Built with modern web technologies & deployed on Vercel  
 
+## Courses
+
+Amrutkala offers structured art courses for different age groups:
+
+- 🧒 **Kids (5–12 years)**  
+  Basics of drawing, colors, and creative art activities.  
+
+- 👦👧 **Teens (13–18 years)**  
+  Advanced sketching, painting, and exposure to traditional Indian art forms.  
+
+- 👩‍🎨 **Adults (18+ years)**  
+  Professional-level painting, shading, and modern art techniques.  
+
+
