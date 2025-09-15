@@ -137,3 +137,43 @@ Follow these steps to set up the project locally:
      npm install -g serve
      serve .
      ```
+
+## 📂 Project Structure
+
+Here's an overview of the folder structure of the project:
+
+```
+Universe/
+├── public/                # Static assets (images, icons, etc.)
+│   ├── favicon.ico
+│   ├── logo.png
+│   └── ...
+│
+├── src/                   # Main source code
+│   ├── assets/            # Images, fonts, and other static resources
+│   ├── components/        # Reusable UI components
+│   ├── pages/             # Next.js pages (routes)
+│   ├── styles/            # Global and module CSS/SCSS files
+│   ├── utils/             # Helper functions
+│   ├── hooks/             # Custom React hooks
+│   ├── context/           # Context API for global state management
+│   └── index.js           # Main entry point
+│
+├── .gitignore             # Files and folders ignored by Git
+├── package.json           # Project metadata and dependencies
+├── README.md              # Documentation (this file)
+└── next.config.js         # Next.js configuration file
+```
+
+### 📝 Explanation of Folders
+
+* **public/** → Contains static files directly served by the application.
+* **src/assets/** → All custom assets like images, fonts, svgs.
+* **src/components/** → Contains all reusable React components (buttons, navbar, etc.).
+* **src/pages/** → Contains all page components, each file becomes a route.
+* **src/styles/** → Global styles, CSS modules, Tailwind configurations.
+* **src/utils/** → Utility functions (helpers, constants, formatters).
+* **src/hooks/** → Custom hooks for state/data logic.
+* **src/context/** → React context for global state.
+
+This structure ensures the project is **scalable, modular, and easy to maintain**.
