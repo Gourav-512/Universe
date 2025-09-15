@@ -86,3 +86,54 @@ Amrutkala provides affordable art materials for students:
 - 📚 Other essential study & creative supplies  
 
 All items are offered at **student-friendly prices** to support learning and practice.  
+
+## Getting Started
+
+Follow these steps to set up the project locally:
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Gourav-512/Universe.git
+   cd Universe
+   ```
+
+2. **Install dependencies** (if it’s a Node/React project)
+
+   ```bash
+   npm install
+   ```
+
+   Or if using pnpm:
+
+   ```bash
+   pnpm install
+   ```
+
+3. **Run in development mode**
+
+   ```bash
+   npm run dev
+   # or
+   pnpm dev
+   ```
+
+4. **Build for production**
+
+   ```bash
+   npm run build
+   npm start
+   # or with pnpm
+   pnpm build
+   pnpm start
+   ```
+
+5. **If static site (HTML/CSS/JS only)**
+
+   * Just open `index.html` in the browser.
+   * Or run with a simple server:
+
+     ```bash
+     npm install -g serve
+     serve .
+     ```
