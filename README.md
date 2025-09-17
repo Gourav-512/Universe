@@ -29,7 +29,7 @@ This website is designed to:
 - Offer affordable stationery for students  
 - Make admission & contact process simple and online
 
-## Live Demo
+## Live Demo :- 
 
 Check out the live website here:  
 🔗 [Amrutkala — Drawing & Painting Classes](https://amrutkala.vercel.app/)
@@ -45,7 +45,7 @@ Check out the live website here:
 - 📩 Easy **Admission & Contact** form  
 - ⚡ Built with modern web technologies & deployed on Vercel  
 
-## Courses
+## Courses :-
 
 Amrutkala offers structured art courses for different age groups:
 
